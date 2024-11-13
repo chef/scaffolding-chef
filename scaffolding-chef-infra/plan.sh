@@ -7,7 +7,7 @@ pkg_license=('Apache-2.0')
 pkg_upstream_url="https://www.chef.sh"
 pkg_deps=(
   core/git
-  core/ruby31
+  core/ruby3_1
   core/make
   core/gcc
 )
